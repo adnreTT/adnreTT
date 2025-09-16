@@ -1,51 +1,47 @@
-💻 Sobre mim
+💻 About Me
 
-Olá! 👋 Meu nome é André Vinícius de Castro e sou apaixonado por tecnologia, linguagens de programação e idiomas. Gosto de aprender coisas novas, resolver problemas e construir soluções que tenham impacto real.
+Hello! 👋 My name is André Vinícius de Castro and I’m passionate about technology, programming languages, and foreign languages. I enjoy learning new things, solving problems, and building solutions that make a real impact.
 
-🧠 Conhecimentos em Programação
+🧠 Programming Knowledge
 
-Tenho experiência com as seguintes linguagens e tecnologias:
+I have experience with the following languages and technologies:
 
-💡 Lógica de Programação
+💡 Programming Logic
 
 🌐 Web: HTML, CSS, JavaScript, Vue.js
 
-⚙️ Back-end: Node.js, Python, API´s
+⚙️ Back-end: Node.js, Python, APIs
 
-🧰 Frameworks e Bibliotecas: React, Next, Bootstrap
+🧰 Frameworks & Libraries: React, Next.js, Bootstrap
 
-🗃️ Banco de Dados: MySQL, PostgreSQL, MongoDB
+🗃️ Databases: MySQL, PostgreSQL, MongoDB
 
-💻 Ferramentas & DevOps: Git, GitHub, Docker
+💻 Tools & DevOps: Git, GitHub, Docker
 
-Sempre que posso, tento aplicar boas práticas como versionamento, documentação e testes automatizados.
+Whenever possible, I apply best practices such as version control, documentation, and automated testing.
 
-🌍 Idiomas
+🌍 Languages
 
-Falo e escrevo em:
-🇧🇷 Português – Nativo
+I speak and write in:
 
-🇺🇸 Inglês – Intermediário/Avançado (compreensão técnica e conversação)
+🇧🇷 Portuguese – Native
+🇺🇸 English – Intermediate/Advanced (technical reading and conversation)
+🇯🇵 Japanese – Basic (currently learning)
 
-🇯🇵 Japonês – Básico (em aprendizado)
+I believe that learning different languages helps broaden horizons, collaborate with people around the world, and access high-quality technical content.
 
-Acredito que saber diferentes idiomas ajuda a expandir horizontes, colaborar com pessoas de todo o mundo e acessar conteúdos técnicos de qualidade.
+🎯 Goals
 
-🎯 Objetivos
+Keep evolving as a developer
 
-Continuar evoluindo como desenvolvedor
+Contribute to open source projects
 
-Contribuir com projetos open source
+Participate in tech communities
 
-Participar de comunidades de tecnologia
+Improve fluency in technical and conversational English
 
-Melhorar fluência em inglês técnico e conversação
+📫 Contact
 
-📫 Contato
-
-💼 [LinkedIn](https://www.linkedin.com/in/andré-castro-295a15235/)
+💼 [LinkedIn](https://www.linkedin.com/in/andré-castro-295a15235/) 
 
 📧 [Email](mailto:andreviniroyale@gmail.com)
-
-
-
