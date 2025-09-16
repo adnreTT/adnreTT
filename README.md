@@ -33,7 +33,9 @@ Whenever possible, I apply best practices such as version control, documentation
 I speak and write in:
 
 🇧🇷 Portuguese – Native
+
 🇺🇸 English – Intermediate/Advanced (technical reading and conversation)
+
 🇯🇵 Japanese – Basic (currently learning)
 
 I believe that learning different languages helps broaden horizons, collaborate with people around the world, and access high-quality technical content.
