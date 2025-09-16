@@ -46,6 +46,6 @@ Melhorar fluência em inglês técnico e conversação
 ✉️ E-mail
 andreviniroyale@gmail.com
 
-💼 LinkedIn
-linkedin.com/in/andré-castro-295a15235
+💼 [LinkedIn](linkedin.com/in/andré-castro-295a15235)
+
 
