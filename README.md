@@ -1,6 +1,6 @@
 💻 About Me
 
-Hello! 👋 My name is André Vinícius de Castro and I’m passionate about technology, programming languages, and foreign languages. I enjoy learning new things, solving problems, and building solutions that make a real impact.
+Hello! 👋 My name is André Vinícius de Castro. I’m a skilled professional with qualifications as a technician in Information Technology and Electromechanics. I’m passionate about technology, programming languages, and foreign languages. I enjoy learning new things, solving problems, and building solutions that make a real impact.
 
 🧠 Programming Knowledge
 
